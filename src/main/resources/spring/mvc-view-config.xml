@@ -37,4 +37,4 @@
         <oxm:class-to-be-bound name="org.springframework.samples.petclinic.model.Vets"/>
     </oxm:jaxb2-marshaller>
 
-</beans>
+</beans> 
